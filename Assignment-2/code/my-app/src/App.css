@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+
+.container{
+  width: fit-content;
+    border: 2px solid palevioletred;
+    justify-content: center;
+    margin-left: 35%;
+
+}
+.sub-container{
+  height:100%;
+  width:70%;
+  margin-top: 4%;
+  margin-left:11%;
+}
+
+img{
+  width: 100%;
+  border-radius: 10px;
+}
+
+.sub-container h1{
+  font-size:350%;
+  color:skyblue;
+}
+
+.sub-container h2{
+  font-size: xx-large;
+  font-family: Arial, Helvetica, sans-serif;
+}
