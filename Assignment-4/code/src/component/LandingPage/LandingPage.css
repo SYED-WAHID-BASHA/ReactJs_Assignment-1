@@ -1,5 +1,5 @@
 .image-container img {
-    margin-left: 20%;
+    margin-left: 40%;
     width: 70%;
     height: 180%;
 }
@@ -7,7 +7,7 @@
 .text {
     width: 40%;
     font-size: xx-large;
-    /* margin-top: 10%; */
+    margin-top: 10%; 
     color: green;
     font-family: auto;
 }
@@ -25,6 +25,7 @@
     margin-top: 10%;
 }
 .text button{
+    margin-left: 10%;
     color:rgb(38, 118, 91);
     border-radius: 7px;
     border-color: rgb(38, 118, 91);
