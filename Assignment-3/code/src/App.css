@@ -1,0 +1,72 @@
+.site-container{
+    /* margin-left:200px; */
+    margin-left:30%;
+}
+
+.header {
+    display: flex;
+    width: 52%;
+    height: 7vh;
+    background-color:#fafafa;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 0.5%;
+    margin-top: 2%;
+}
+
+.para-content {
+    margin-top: 7px;
+}
+
+button {
+    background-color: black;
+    color: whitesmoke;
+    height: 3vh;
+    margin-top: 2vh;
+    margin-right: 4%;
+    margin-bottom: 1vh  ;
+     padding: 10px 10px 22px 10px;
+    font-size: 15px;
+
+}
+
+.left-arrow {margin-top: 4%;margin-left: 2%;color: burlywood;
+    transform:scaleY(2);}
+
+.customer {
+    width: 50%;
+    /* background-color: gainsboro; */
+    height: 17vh;
+    /* vertical-align: initial; */
+    border: 1px solid gainsboro;
+    margin-top: 1%;
+    margin-left: 1.5%;
+    border-radius: 5px;
+}
+
+p.customer-data {padding-top: 1%;margin-left: 1%;}
+
+.Order {background-color: gainsboro;height: 10vh;border: 1px solid gainsboro;border-radius: 5px;/* flex-direction: row; *//* flex-wrap: nowrap; */width: 50%;margin-left: 1.5%;margin-top: 14px;}
+
+.Order-data {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 15px;}
+
+    .order-content {width: 30%;}
+
+.Product-info {width: 50%;display: flex;justify-content: center;flex-direction: row;border-radius: 5px;border: 1px solid gainsboro;margin: 1.5%;}
+
+img {width: 115px;padding: 20px;}
+
+.prod-checkbox {color: orange;
+    margin-top: 7%;
+    /* size: auto; */
+    margin-left: 2%;}
+
+.prod-rightarrow{
+    margin-top: 14%;
+    margin-right: 3%;
+    transform: scaleY(2);
+    color: antiquewhite;
+}
