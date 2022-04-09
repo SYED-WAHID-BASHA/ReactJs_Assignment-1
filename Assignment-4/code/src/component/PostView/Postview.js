@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import './Postview.css';
-import Post from './component/Post';
-import Header from './component/Haeder';
+import Post from '../Post';
+import Header from '../Haeder';
 
 
 const Postview=()=> {

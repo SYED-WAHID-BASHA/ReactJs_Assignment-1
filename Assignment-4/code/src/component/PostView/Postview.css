@@ -12,7 +12,7 @@ body {
   margin:0;
 } 
 
-.Header {width: 100%;height: 5%;display: flex;border:1px solid seagreen;}
+.Header {width: 99.9%;height: 5%;display: flex;border:1px solid seagreen;}
 .header-content {color: mediumseagreen;font-size: xx-large;;width: 50%;/* display: flex; */}
 .header-image {height: 3%;width: 50%;}
 .header-image img{

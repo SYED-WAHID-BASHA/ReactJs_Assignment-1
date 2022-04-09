@@ -1,0 +1,37 @@
+.image-container img {
+    margin-left: 20%;
+    width: 70%;
+    height: 180%;
+}
+
+.text {
+    width: 40%;
+    font-size: xx-large;
+    /* margin-top: 10%; */
+    color: green;
+    font-family: auto;
+}
+.image-container {
+    /* margin-top: 10%; */
+    width: 40%;
+}
+
+.landing-container {
+    display: flex;
+    width: 100%;
+    height: 200%;
+    justify-content: space-evenly;
+    margin-top: 10;
+    margin-top: 10%;
+}
+.text button{
+    color:rgb(38, 118, 91);
+    border-radius: 7px;
+    border-color: rgb(38, 118, 91);
+    padding:0.5%;
+    font-size: larger;
+    font-weight: bold;
+    cursor: pointer;
+    background-color: white;
+    
+}
